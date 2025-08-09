@@ -21,6 +21,26 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+1. Instagram
+
+- Changing the background color of the messages screen
+
+- Permanently Deleting old messages
+
+2. WhatsApp
+
+- Changing the background color of the messages screen
+- Deleting messages only for me
+
+3. Telegram
+
+- Reaching out to literally anyone on TG.
+- TG Groups are perfect for finding material.
+
+
+I would personally be interested in building an AI gardening helper app.
+
+
 ## Notes
 
 Did some silly mistakes like not holding the ctrl button while dragging. 
